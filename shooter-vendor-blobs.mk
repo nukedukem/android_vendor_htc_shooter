@@ -91,3 +91,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/3D_calibration:system/bin/3D_calibration \
     vendor/htc/shooter/proprietary/3D_calibration_main:system/bin/3D_calibration_main \
     vendor/htc/shooter/proprietary/libcamera_client.so:system/lib/libcamera_client.so
+
