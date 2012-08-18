@@ -19,7 +19,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/camera.default.so:obj/lib/hw/camera.default.so \
     vendor/htc/shooter/proprietary/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/shooter/proprietary/libacdbloader.so:obj/lib/libacdbloader.so \
-    vendor/htc/shooter/proprietary/libacdbmapper.so:obj/lib/libacdbmapper.so
+    vendor/htc/shooter/proprietary/libacdbmapper.so:obj/lib/libacdbmapper.so \
+    vendor/htc/shooter/proprietary/libtilerenderer.so:obj/lib/libtilerenderer.so
     
 # All the blobs necessary for shooter
 PRODUCT_COPY_FILES += \
@@ -88,5 +89,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/sound8x60:system/bin/sound8x60 \
     vendor/htc/shooter/proprietary/3D_calibration:system/bin/3D_calibration \
     vendor/htc/shooter/proprietary/3D_calibration_main:system/bin/3D_calibration_main \
-    vendor/htc/shooter/proprietary/libcamera_client.so:system/lib/libcamera_client.so
+    vendor/htc/shooter/proprietary/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/htc/shooter/proprietary/libtilerenderer.so:system/lib/libtilerenderer.so
 
