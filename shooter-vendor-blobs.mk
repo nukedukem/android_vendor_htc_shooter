@@ -89,6 +89,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/sound8x60:system/bin/sound8x60 \
     vendor/htc/shooter/proprietary/3D_calibration:system/bin/3D_calibration \
     vendor/htc/shooter/proprietary/3D_calibration_main:system/bin/3D_calibration_main \
-    vendor/htc/shooter/proprietary/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/htc/shooter/proprietary/libtilerenderer.so:system/lib/libtilerenderer.so
 
