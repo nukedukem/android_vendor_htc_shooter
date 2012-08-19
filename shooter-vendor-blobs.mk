@@ -38,8 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/libaudcal.so:system/lib/libaudcal.so \
     vendor/htc/shooter/proprietary/libacdbmapper.so:system/lib/libacdbmapper.so \
     vendor/htc/shooter/proprietary/libacdbloader.so:system/lib/libacdbloader.so \
-    vendor/htc/shooter/proprietary/libC2D2.so:system/lib/libC2D2.so \
-    vendor/htc/shooter/proprietary/libc2d2_z180.so:system/lib/libc2d2_z180.so \
     vendor/htc/shooter/proprietary/libcamerapp.so:system/lib/libcamerapp.so \
     vendor/htc/shooter/proprietary/libcameraSP.so:system/lib/libcameraSP.so \
     vendor/htc/shooter/proprietary/libcameraface.so:system/lib/libcameraface.so \
@@ -48,15 +46,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/libidl.so:system/lib/libidl.so \
     vendor/htc/shooter/proprietary/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/htc/shooter/proprietary/libdsutils.so:system/lib/libdsutils.so \
-    vendor/htc/shooter/proprietary/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/htc/shooter/proprietary/libgemini.so:system/lib/libgemini.so \
     vendor/htc/shooter/proprietary/libgemini2.so:system/lib/libgemini2.so \
-    vendor/htc/shooter/proprietary/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
-    vendor/htc/shooter/proprietary/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-    vendor/htc/shooter/proprietary/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
-    vendor/htc/shooter/proprietary/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
-    vendor/htc/shooter/proprietary/libgsl.so:system/lib/libgsl.so \
-    vendor/htc/shooter/proprietary/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/htc/shooter/proprietary/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
     vendor/htc/shooter/proprietary/libhtc_ril.so:system/lib/libhtc_ril.so \
     vendor/htc/shooter/proprietary/libhtc_ril_switch.so:system/lib/libhtc_ril_switch.so \
@@ -74,13 +65,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/htc/shooter/proprietary/libOlaEngine.so:system/lib/libOlaEngine.so \
     vendor/htc/shooter/proprietary/libOpenMAXAL.so:system/lib/libOpenMAXAL.so \
-    vendor/htc/shooter/proprietary/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/htc/shooter/proprietary/libposteffect.so:system/lib/libposteffect.so \
     vendor/htc/shooter/proprietary/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/htc/shooter/proprietary/libqmi.so:system/lib/libqmi.so \
     vendor/htc/shooter/proprietary/libqdp.so:system/lib/libqdp.so \
     vendor/htc/shooter/proprietary/libqmiservices.so:system/lib/libqmiservices.so \
-    vendor/htc/shooter/proprietary/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/htc/shooter/proprietary/camera.default.so:system/lib/hw/camera.default.so \
     vendor/htc/shooter/proprietary/lights.msm8660.so:system/lib/hw/lights.msm8660.so \
     vendor/htc/shooter/proprietary/sensors.shooter.so:system/lib/hw/sensors.shooter.so \
