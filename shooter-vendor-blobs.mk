@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/libtilerenderer.so:obj/lib/libtilerenderer.so
 
 PRODUCT_COPY_FILES += \
+    vendor/htc/shooter/proprietary/system/xbin/wireless_modem:system/bin/wireless_modem \
     vendor/htc/shooter/proprietary/system/bin/charging:system/bin/charging \
     vendor/htc/shooter/proprietary/system/bin/htc_ebdlogd:system/bin/htc_ebdlogd \
     vendor/htc/shooter/proprietary/system/bin/htcbatt:system/bin/htcbatt \
@@ -29,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/bin/netmgrd:system/bin/netmgrd \
     vendor/htc/shooter/proprietary/system/bin/qmuxd:system/bin/qmuxd \
     vendor/htc/shooter/proprietary/system/bin/thermald:system/bin/thermald \
-    vendor/htc/shooter/proprietary/system/bin/wireless_modem:system/bin/wireless_modem \
     vendor/htc/shooter/proprietary/system/xbin/wireless_modem:system/xbin/wireless_modem \
     vendor/htc/shooter/proprietary/system/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/htc/shooter/proprietary/system/lib/libaudcal.so:system/lib/libaudcal.so \
