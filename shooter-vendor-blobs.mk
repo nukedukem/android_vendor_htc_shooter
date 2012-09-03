@@ -16,8 +16,7 @@
 PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/shooter/proprietary/system/lib/libacdbloader.so:obj/lib/libacdbloader.so \
-    vendor/htc/shooter/proprietary/system/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
-    vendor/htc/shooter/proprietary/system/lib/libv8.so:obj/lib/libv8.so
+    vendor/htc/shooter/proprietary/system/lib/libacdbmapper.so:obj/lib/libacdbmapper.so
 
 PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/xbin/wireless_modem:system/bin/wireless_modem \
@@ -70,7 +69,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libqdp.so:system/lib/libqdp.so \
     vendor/htc/shooter/proprietary/system/lib/libqmi.so:system/lib/libqmi.so \
     vendor/htc/shooter/proprietary/system/lib/libqmiservices.so:system/lib/libqmiservices.so \
-    vendor/htc/shooter/proprietary/system/lib/libv8.so:system/lib/libv8.so \
     vendor/htc/shooter/proprietary/system/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
     vendor/htc/shooter/proprietary/system/lib/hw/lights.msm8660.so:system/lib/hw/lights.msm8660.so \
     vendor/htc/shooter/proprietary/system/lib/hw/sensors.shooter.so:system/lib/hw/sensors.shooter.so \
