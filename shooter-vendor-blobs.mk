@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
     vendor/htc/shooter/proprietary/system/lib/libcamera_client.so:obj/lib/libcamera_client.so \
     vendor/htc/shooter/proprietary/system/lib/libcameraservice.so:obj/lib/libcameraservice.so \
-    vendor/htc/shooter/proprietary/system/lib/libv8.so:obj/lib/libv8.so \
+    vendor/htc/shooter/proprietary/system/lib/libv8.so:obj/lib/libv8.so
 
 PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/xbin/wireless_modem:system/bin/wireless_modem \
