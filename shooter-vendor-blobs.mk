@@ -28,7 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/bin/charging:system/bin/charging \
     vendor/htc/shooter/proprietary/system/bin/htc_ebdlogd:system/bin/htc_ebdlogd \
     vendor/htc/shooter/proprietary/system/bin/htcbatt:system/bin/htcbatt \
-    vendor/htc/shooter/proprietary/system/bin/idp:system/bin/ipd \
+    vendor/htc/shooter/proprietary/system/bin/ipd:system/bin/ipd \
     vendor/htc/shooter/proprietary/system/bin/load-modem.sh:system/bin/load-modem.sh \
     vendor/htc/shooter/proprietary/system/bin/logcat2:system/bin/logcat2 \
     vendor/htc/shooter/proprietary/system/bin/mpdecision:system/bin/mpdecision \
