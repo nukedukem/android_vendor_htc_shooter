@@ -61,7 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libmllite.so:system/lib/libmllite.so \
     vendor/htc/shooter/proprietary/system/lib/libmlplatform.so:system/lib/libmlplatform.so \
     vendor/htc/shooter/proprietary/system/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
-    vendor/htc/shooter/proprietary/system/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/htc/shooter/proprietary/system/lib/libmmipl.so:system/lib/libmmipl.so \
     vendor/htc/shooter/proprietary/system/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/htc/shooter/proprietary/system/lib/libmmjps.so:system/lib/libmmjps.so \
@@ -93,3 +92,4 @@ PRODUCT_COPY_FILES += \
 # vendor/htc/shooter/proprietary/system/lib/libgsl.so:system/lib/libgsl.so \
 # vendor/htc/shooter/proprietary/system/lib/libqc-opt.so:system/lib/libqc-opt.so \
 # vendor/htc/shooter/proprietary/system/lib/libv8.so:system/lib/libv8.so \
+# vendor/htc/shooter/proprietary/system/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
