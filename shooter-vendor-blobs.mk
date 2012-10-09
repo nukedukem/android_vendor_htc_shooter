@@ -76,8 +76,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libqdp.so:system/lib/libqdp.so \
     vendor/htc/shooter/proprietary/system/lib/libqmi.so:system/lib/libqmi.so \
     vendor/htc/shooter/proprietary/system/lib/libqmiservices.so:system/lib/libqmiservices.so \
-    vendor/htc/shooter/proprietary/system/libwvm.so:system/lib/libwvm.so \
-    vendor/htc/shooter/proprietary/system/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
+    vendor/htc/shooter/proprietary/system/lib/libwvm.so:system/lib/libwvm.so \
+    vendor/htc/shooter/proprietary/system/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
     vendor/htc/shooter/proprietary/system/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
     vendor/htc/shooter/proprietary/system/lib/hw/lights.msm8660.so:system/lib/hw/lights.msm8660.so \
     vendor/htc/shooter/proprietary/system/lib/hw/sensors.shooter.so:system/lib/hw/sensors.shooter.so \
