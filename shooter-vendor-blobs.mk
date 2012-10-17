@@ -16,9 +16,7 @@
 PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/htc/shooter/proprietary/system/lib/libacdbloader.so:obj/lib/libacdbloader.so \
-    vendor/htc/shooter/proprietary/system/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
-    vendor/htc/shooter/proprietary/system/lib/libcamera_client.so:obj/lib/libcamera_client.so \
-    vendor/htc/shooter/proprietary/system/lib/hw/camera.default.so:obj/lib/hw/camera.default.so
+    vendor/htc/shooter/proprietary/system/lib/libacdbmapper.so:obj/lib/libacdbmapper.so
 
 PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/xbin/wireless_modem:system/bin/wireless_modem \
@@ -41,14 +39,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/shooter/proprietary/system/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/htc/shooter/proprietary/system/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/htc/shooter/proprietary/system/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
-    vendor/htc/shooter/proprietary/system/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/htc/shooter/proprietary/system/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/shooter/proprietary/system/lib/libcameraLN.so:system/lib/libcameraLN.so \
     vendor/htc/shooter/proprietary/system/lib/libcamerapp.so:system/lib/libcamerapp.so \
     vendor/htc/shooter/proprietary/system/lib/libcameraSP.so:system/lib/libcameraSP.so \
     vendor/htc/shooter/proprietary/system/lib/libcapsjava.so:system/lib/libcapsjava.so \
-    vendor/htc/shooter/proprietary/system/lib/libchromatix_qs_s5k4e1_video.so:system/lib/libchromatix_qs_s5k4e1_video.so \
-    vendor/htc/shooter/proprietary/system/lib/libchromatix_qs_s5k4e1_preview.so:system/lib/libchromatix_qs_s5k4e1_preview.so \
     vendor/htc/shooter/proprietary/system/lib/libdll.so:system/lib/libdll.so \
     vendor/htc/shooter/proprietary/system/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/htc/shooter/proprietary/system/lib/libdsutils.so:system/lib/libdsutils.so \
@@ -95,3 +90,6 @@ PRODUCT_COPY_FILES += \
 # vendor/htc/shooter/proprietary/system/lib/libqc-opt.so:system/lib/libqc-opt.so \
 # vendor/htc/shooter/proprietary/system/lib/libv8.so:system/lib/libv8.so \
 # vendor/htc/shooter/proprietary/system/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
+# vendor/htc/shooter/proprietary/system/lib/libcamera_client.so:system/lib/libcamera_client.so \
+# vendor/htc/shooter/proprietary/system/lib/libchromatix_qs_s5k4e1_video.so:system/lib/libchromatix_qs_s5k4e1_video.so \
+# vendor/htc/shooter/proprietary/system/lib/libchromatix_qs_s5k4e1_preview.so:system/lib/libchromatix_qs_s5k4e1_preview.so \
